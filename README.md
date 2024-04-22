@@ -4,8 +4,6 @@ I am Francesco, a recent computer science graduate from [The University Rafael U
 
 [![Linkedin Badge](https://img.shields.io/badge/-francescorjm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francescorjm/)](https://www.linkedin.com/in/francescorjm/)
 [![Instagram Badge](https://img.shields.io/badge/-francescorjm-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/francescorjm/)](https://instagram.com/francescorjm)
-[![Youtube Badge](https://img.shields.io/badge/-francescorjm-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/francescorjm)](https://www.youtube.com/c/francescorjm)
-[![Medium Badge](https://img.shields.io/badge/-@francescorjm-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@francescorjm/)](https://medium.com/@francescorjm)
 [![Gmail Badge](https://img.shields.io/badge/-francescorjm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francescorjm@gmail.com)](mailto:francescorjm@gmail.com)
 
 ## ⚡ Technologies
