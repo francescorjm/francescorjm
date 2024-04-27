@@ -1,6 +1,6 @@
 ### Hello there! 👋 I'm Francesco
 
-I am Francesco, a recent computer science graduate from [The University Rafael Urdaneta](https://https://uru.edu/). I am a tech enthusiast and an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Francesco, a recent computer engineer graduate from [The University Rafael Urdaneta](https://https://uru.edu/). I am a tech enthusiast and an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-francescorjm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/francescorjm/)](https://www.linkedin.com/in/francescorjm/)
 [![Instagram Badge](https://img.shields.io/badge/-francescorjm-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/francescorjm/)](https://instagram.com/francescorjm)
